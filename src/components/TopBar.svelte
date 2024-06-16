@@ -22,7 +22,7 @@
 			<a href={base + '/settings'} class="flex justify-center md:justify-start">
 				<!-- <img src="/logo.png" class="h-8" alt="ByteBridge Limited"/> -->
 				<img
-				src="https://media.discordapp.net/attachments/890634398981042246/1248840765678030919/bytebridge_1.png?ex=66652118&is=6663cf98&hm=017345e22ba01766400f58d77d8d16b923068e741d2ec7efa55daa5a10be68fb&=&format=webp&quality=lossless&width=825&height=676"
+				src="https://images-ext-1.discordapp.net/external/etAyiY2BgQovEpESt6G2V05AUBjUoRQBzs8gcmhAf_c/%3Fsize%3D2048/https/cdn.discordapp.com/icons/952491454591279154/c05b791cb1acfd97e2f9f14230138be7.webp?format=webp&width=676&height=676"
 				alt="ByteBridge Limited"
 				style="border-radius: 50%; width: 64px; height: 64px;"
 			/>
